@@ -1,0 +1,3 @@
+C:/Users/szlen/CLionProjects/OU_GITHUB_LAB_DRUGA_PROBA/cmake-build-debug/CMakeFiles/OU_GITHUB_LAB_DRUGA_PROBA.dir
+C:/Users/szlen/CLionProjects/OU_GITHUB_LAB_DRUGA_PROBA/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/szlen/CLionProjects/OU_GITHUB_LAB_DRUGA_PROBA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
